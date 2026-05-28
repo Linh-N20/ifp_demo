@@ -163,9 +163,3 @@ Purpose of the file:
 - call parser + interpreter
 - print user-friendly output and encoded result
 
-## FAQ
-1. What is AST? <br>
-<b>Answer</b>: Please search for it online (e.g., Google) and review basic materials on Abstract Syntax Trees (AST), as this is a fundamental concept.
-2. If I have not studied Principles of Programming Languages, can I still complete this assignment? <br>
-<b>Answer</b>: Yes. While prior knowledge of Principles of Programming Languages is helpful, it is not required. You can complete this assignment by applying concepts from courses such as Fundamental Programming and Data Structures & Algorithms. However, you may need to spend additional time understanding concepts like parsing, Abstract Syntax Trees (AST), and basic interpreter design.
-
