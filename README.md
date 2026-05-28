@@ -162,4 +162,3 @@ Purpose of the file:
 - read input
 - call parser + interpreter
 - print user-friendly output and encoded result
-
